@@ -23,6 +23,7 @@ See the [contribution  guidelines](https://github.com/SignalR/SignalR/blob/maste
 git clone git@github.com:SignalR/java-client.git (or https if you use https)
 ```
 
+
 Open Android Studio, click "Import Non-Android Studio Project" and select the cloned directory 
 
 Build the project.
@@ -52,4 +53,4 @@ The SignalR team hangs out in the [signalr](http://jabbr.net/#/rooms/signalr) ro
 
 
 
-my name is fangchao 123
+my name is fangchao 123123
