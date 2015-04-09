@@ -1,4 +1,4 @@
-igit# ASP.NET SignalR for Java and Android
+# ASP.NET SignalR for Java and Android
 ASP.NET SignalR is a new library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications. What is "real-time web" functionality? It's the ability to have your server-side code push content to the connected clients as it happens, in real-time.
 
 ## What can it be used for?
@@ -50,8 +50,4 @@ In the code, before using the library, initialize the platform to use android-sp
 
 ## Questions?
 The SignalR team hangs out in the [signalr](http://jabbr.net/#/rooms/signalr) room at on [JabbR](http://jabbr.net/).
-123
-风格化
-很快就会开花
-lyjsb
-aaaaaaaaaaaa
+h
