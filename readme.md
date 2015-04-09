@@ -23,6 +23,7 @@ See the [contribution  guidelines](https://github.com/SignalR/SignalR/blob/maste
 git clone git@github.com:SignalR/java-client.git (or https if you use https)
 ```
 
+
 Open Android Studio, click "Import Non-Android Studio Project" and select the cloned directory 
 
 Build the project.
@@ -49,3 +50,4 @@ In the code, before using the library, initialize the platform to use android-sp
 
 ## Questions?
 The SignalR team hangs out in the [signalr](http://jabbr.net/#/rooms/signalr) room at on [JabbR](http://jabbr.net/).
+123
